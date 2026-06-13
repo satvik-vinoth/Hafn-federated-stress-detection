@@ -123,6 +123,3 @@ If you use this work, please cite the WESAD dataset and the FedNova aggregation 
 
 ---
 
-## Authors
-
-Senthil Prakash P.N, Satvik V, Aadarsh Ramakrishna, Beneta Johnson — School of Computer Science and Engineering, VIT Vellore.
